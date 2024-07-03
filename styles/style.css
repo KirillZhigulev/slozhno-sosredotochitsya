@@ -264,11 +264,11 @@
     gap: var(--content-padding, 20px);
   }
 
-  .wide-two {
+  .wide-picture {
     grid-column: span 2;
   }
 
-  .height-two {
+  .height-picture {
     grid-row: span 2;
   }
 }
